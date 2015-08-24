@@ -1,0 +1,8 @@
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\GameTest.csproj.GenerateResource.Cache
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\GameTest.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\GameTest.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\GameTest.Resource1.resources
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\GameTest.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\GameTest.pdb

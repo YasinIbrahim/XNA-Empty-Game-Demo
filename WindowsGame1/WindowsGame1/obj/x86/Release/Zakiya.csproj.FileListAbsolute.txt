@@ -1,0 +1,8 @@
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Arial.xnb
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Zakiya.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Zakiya.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Zakiya.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Zakiya.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Zakiya.Resource1.resources
+C:\Users\Yasin.YAS-XW4600-2\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Zakiya.csproj.GenerateResource.Cache
